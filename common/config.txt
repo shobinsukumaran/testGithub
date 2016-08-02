@@ -1,0 +1,3 @@
+##All the common files should refer from here.
+
+## This is a sample project which uses angular js and zend framework
